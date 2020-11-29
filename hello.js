@@ -9,5 +9,4 @@ if (name === undefined) {
 
 console.log(`Good day to you, ${name}`);
 
-//#region 
-//#Festa no ape
+//#region
